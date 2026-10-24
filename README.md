@@ -10,7 +10,6 @@ A curated, structured collection of **394 papers** on multimodal deepfake and fa
 - [Statistics](#statistics)
 - [Resources](#resources)
 - [Paper list](#paper-list)
-- [Citation](#citation)
 
 ## Research questions
 1. **RQ1** what is deepfake? What kind of deepfake are available in audio, text, image, and video? This question looks at how AI creates or changes content to make deepfakes in different media formats. It studies everything from small changes (like altering a word or facial expression) to completely fake creations in audio, text, images, and videos.
