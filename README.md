@@ -1,4 +1,4 @@
-# Awesome Multimodal Deepfake & Fake News Detection
+# Multimodal Deepfake & Fake News Detection (SLR)
 
 ![Papers](https://img.shields.io/badge/papers-394-blue) ![Years](https://img.shields.io/badge/years-2017--2026-green) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
 
@@ -15,10 +15,10 @@ A curated, structured collection of **394 papers** on multimodal deepfake and fa
 - [Contributing](#contributing)
 
 ## Research questions
-1. **RQ1** What is a deepfake, and which kinds exist in audio, text, image and video?
-2. **RQ2** What are the benefits, risks and challenges in generation and detection?
-3. **RQ3** Which data collection techniques, benchmarks (metrics, datasets, baselines) and feature extraction methods are used in detection?
-4. **RQ4** What are the state-of-the-art detection techniques in each modality?
+1. **RQ1** what is deepfake? What kind of deepfake are available in audio, text, image, and video? This question looks at how AI creates or changes content to make deepfakes in different media formats. It studies everything from small changes (like altering a word or facial expression) to completely fake creations in audio, text, images, and videos.
+2. **RQ2** What are the Benefits, risks, and challenges in generation and detection? This question examines the advantages, dangers, and technical difficulties of making and finding deepfakes across all media types. It focuses on ethical issues, potential misuse, and the growing difficulty in detection systems.
+3. **RQ3** What are the data collection techniques, benchmarks (e.g. evaluation metrics, datasets, and baseline models), and feature extraction in detection? This question studies the essential parts of deepfake detection across all media types, including how data is gathered, benchmark datasets, evaluation methods, and baseline models. It also reviews techniques for extracting features that help identify fake content.
+4. **RQ4** What are the state-of-the-art detection techniques in each modality? This question explores the most advanced detection techniques used in audio, text, image, and video modalities. It identifies cutting-edge models, algorithms, and multi-modal strategies that achieve better performance in identifying deepfakes.
 
 ## Statistics
 
@@ -28,9 +28,7 @@ A curated, structured collection of **394 papers** on multimodal deepfake and fa
 | Venue type | Conference (238), Journal (153), Workshop (3) |
 | Publisher | IEEE (195), ACM (87), Elsevier (60), Springer (50), Wiley (2) |
 | Year | 2017 (1), 2018 (1), 2019 (2), 2020 (9), 2021 (20), 2022 (19), 2023 (29), 2024 (75), 2025 (143), 2026 (95) |
-| Modalities | Text+Image (261), Audio+Video (75), Text+Audio+Video (21), Text+Image+Audio+Video (12), Image+Audio+Video (9), Text+Image+Video (4), Text+Video (4), Image+Video (3) |
 | Top countries (first author) | China (237), India (73), USA (13), Republic of Korea (7), Canada (6), Bangladesh (6), United Kingdom (5), Singapore (5) |
-| Top datasets | Weibo (166), Twitter (MediaEval) (116), FakeAVCeleb (56), DFDC (45), Fakeddit (44), GossipCop (44), PHEME (43), PolitiFact (34), FaceForensics++ (26), LAV-DF (23) |
 
 
 ![Papers per year](figures/fig_papers_per_year.png)
