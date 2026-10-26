@@ -1,6 +1,6 @@
 # Multimodal Deepfake & Fake News Detection (SLR)
 
-![Papers](https://img.shields.io/badge/papers-394-blue) ![Years](https://img.shields.io/badge/years-2017--2026-green) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+![Papers](https://img.shields.io/badge/papers-394-blue) ![Years](https://img.shields.io/badge/years-2015--2026-green) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
 
 A curated, structured collection of **394 papers** on multimodal deepfake and fake news detection (text, image, audio, video), compiled for a systematic literature review. Every paper has its own page with the extracted methodology, datasets, metrics, features, limitations, robustness findings and BibTeX.
 
